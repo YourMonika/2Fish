@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="2Fish"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2Fish">
+				<Option output="/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/2Fish.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 2Fish"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2Fish/fast">
+				<Option output="/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/2Fish.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 2Fish/fast"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/MI/Documents/GitHub/2Fish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/MI/Documents/GitHub/2Fish/main.c">
+			<Option target="2Fish"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/MI/Documents/GitHub/2Fish/twofish.c">
+			<Option target="2Fish"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/MI/Documents/GitHub/2Fish/twofish.h">
+			<Option target="2Fish"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/MI/Documents/GitHub/2Fish/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

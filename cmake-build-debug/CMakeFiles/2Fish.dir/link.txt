@@ -1,0 +1,1 @@
+C:/cygwin64/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/2Fish.dir/main.c.o CMakeFiles/2Fish.dir/twofish.c.o  -o 2Fish.exe -Wl,--out-implib,lib2Fish.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/MI/Documents/GitHub/2Fish/main.c
+twofish.h
+/cygdrive/c/Users/MI/Documents/GitHub/2Fish/twofish.h
+
+/cygdrive/c/Users/MI/Documents/GitHub/2Fish/twofish.c
+twofish.h
+/cygdrive/c/Users/MI/Documents/GitHub/2Fish/twofish.h
+
+/cygdrive/c/Users/MI/Documents/GitHub/2Fish/twofish.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
